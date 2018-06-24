@@ -1,0 +1,76 @@
+.request {
+  padding-left: 10px;
+  padding-top: 15px;
+}
+
+.request-btn {
+  outline: none;
+  width: 80px;
+}
+
+.request-status {
+  color: grey;
+  margin-left: 15px;
+}
+
+.logo {
+  background: url('freshdesk_logo.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 15px;
+  margin-top: 2px;
+}
+
+.footer {    
+    bottom: 0;
+    width: 100%;   
+    background-color: #1cce84;
+    display: block;
+    box-sizing: border-box;
+}
+
+.align-center {
+	text-align: center;
+}
+
+.down {
+	font-size: 10px;
+}
+
+.footer .brand-text {   
+    padding-right: 15px;
+    padding-left: 15px;
+    font-size: 15px;
+    font-family: Rockwell;
+    text-align: center;
+    vertical-align: bottom;
+	color:white;
+}
+
+#mytable{    
+	width: 100%;
+}
+
+th{
+    background-color: #4CAF50;
+    color: white;
+}
+
+td{
+    align: centre;
+}
+
+tr:nth-child(even) {background-color: #2bea9b;}
+
+
+input[type="text"] {
+	background-color: transparent;
+}
+
+textarea.form-control {
+	background-color: transparent;
+}
+
+.sms_button {
+	margin-top: 15px;
+}
